@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+aiofiles
+python-multipart
+torch
+torchaudio
+torchvision
